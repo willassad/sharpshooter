@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="sharpshooter_dw">
+</Property><Property Name="Solution File" Value="C:\Users\Scott King\Desktop\Sharpshooter\sharpshooter_dw\sharpshooter_dw.sln">
+</Property><Property Name="Date" Value="April-10-10">
+</Property><Property Name="Time" Value="7:42 AM">
+</Property></Properties><Event ErrorLevel="0" Project="sharpshooter_dw" Source="sharpshooter_dw\sharpshooter_dw.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="sharpshooter_dw" Source="sharpshooter_dw\sharpshooter_dw.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="sharpshooter_dw.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="sharpshooter_dw.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="sharpshooter_dw" Source="sharpshooter_dw\sharpshooter_dw.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
