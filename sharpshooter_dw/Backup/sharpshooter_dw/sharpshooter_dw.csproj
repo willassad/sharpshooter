@@ -1,0 +1,138 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EC04313A-967A-4674-BC33-BF9BB7C554BC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>sharpshooter_dw</RootNamespace>
+    <AssemblyName>sharpshooter_dw</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.DirectX, Version=1.0.2902.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\Microsoft.DirectX.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.DirectX.AudioVideoPlayback, Version=1.0.2902.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\Microsoft.DirectX.AudioVideoPlayback.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.DirectX.DirectSound, Version=1.0.2902.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\Microsoft.DirectX.DirectSound.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cheats.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cheats.Designer.cs">
+      <DependentUpon>Cheats.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gameobjects\BossTank.cs" />
+    <Compile Include="gameobjects\Bullet.cs" />
+    <Compile Include="gameobjects\EnemySoldier.cs" />
+    <Compile Include="gameobjects\EnemySoldier2.cs" />
+    <Compile Include="gameobjects\EnemySoldier3.cs" />
+    <Compile Include="gameobjects\Explosion.cs" />
+    <Compile Include="gameobjects\HealthPack.cs" />
+    <Compile Include="gameobjects\Player.cs" />
+    <Compile Include="gameobjects\Soldier.cs" />
+    <Compile Include="gameobjects\Tank.cs" />
+    <Compile Include="gameobjects\Wall.cs" />
+    <Compile Include="gameobjects\Weapons\BossTankGun.cs" />
+    <Compile Include="gameobjects\Weapons\Pistol.cs" />
+    <Compile Include="gameobjects\Weapons\RapidGun.cs" />
+    <Compile Include="gameobjects\Weapons\SniperGun.cs" />
+    <Compile Include="gameobjects\Weapons\StunGun.cs" />
+    <Compile Include="gameobjects\Weapons\SuperBallLauncher.cs" />
+    <Compile Include="gameobjects\Weapons\TankGun.cs" />
+    <Compile Include="gameobjects\Weapons\Weapon.cs" />
+    <Compile Include="Instructions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Instructions.Designer.cs">
+      <DependentUpon>Instructions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Level.cs" />
+    <Compile Include="mainform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mainform.Designer.cs">
+      <DependentUpon>mainform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Picture.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Cheats.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Cheats.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Instructions.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Instructions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mainform.resx">
+      <DependentUpon>mainform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Sounds.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
