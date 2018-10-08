@@ -1,0 +1,34 @@
+C:\Users\Scott King\Desktop\Sharpshooter\sharpshooter_dw\sharpshooter_dw\obj\Debug\sharpshooter_dw.exe
+C:\Users\Scott King\Desktop\Sharpshooter\sharpshooter_dw\sharpshooter_dw\obj\Debug\sharpshooter_dw.pdb
+C:\Users\Scott King\Desktop\Sharpshooter\sharpshooter_dw\sharpshooter_dw\bin\Debug\sharpshooter_dw.exe
+C:\Users\Scott King\Desktop\Sharpshooter\sharpshooter_dw\sharpshooter_dw\bin\Debug\sharpshooter_dw.pdb
+C:\Users\Scott King\Desktop\Sharpshooter\sharpshooter_dw\sharpshooter_dw\obj\Debug\sharpshooter_dw.Cheats.resources
+C:\Users\Scott King\Desktop\Sharpshooter\sharpshooter_dw\sharpshooter_dw\obj\Debug\sharpshooter_dw.Instructions.resources
+C:\Users\Scott King\Desktop\Sharpshooter\sharpshooter_dw\sharpshooter_dw\obj\Debug\sharpshooter_dw.mainform.resources
+C:\Users\Scott King\Desktop\Sharpshooter\sharpshooter_dw\sharpshooter_dw\obj\Debug\sharpshooter_dw.Properties.Resources.resources
+C:\Users\Scott King\Desktop\Sharpshooter\sharpshooter_dw\sharpshooter_dw\obj\Debug\sharpshooter_dw.csprojResolveAssemblyReference.cache
+C:\Users\Scott King\Desktop\Sharpshooter\sharpshooter_dw\sharpshooter_dw\obj\Debug\sharpshooter_dw.csproj.GenerateResource.Cache
+C:\Users\Scott King\Desktop\Sharpshooter STUDENT PROJECT\sharpshooter_dw\sharpshooter_dw\obj\Debug\sharpshooter_dw.exe
+C:\Users\Scott King\Desktop\Sharpshooter STUDENT PROJECT\sharpshooter_dw\sharpshooter_dw\obj\Debug\sharpshooter_dw.pdb
+C:\Users\Scott King\Desktop\Sharpshooter STUDENT PROJECT\sharpshooter_dw\sharpshooter_dw\bin\Debug\sharpshooter_dw.exe
+C:\Users\Scott King\Desktop\Sharpshooter STUDENT PROJECT\sharpshooter_dw\sharpshooter_dw\bin\Debug\sharpshooter_dw.pdb
+C:\Users\Scott King\Desktop\Sharpshooter STUDENT PROJECT\sharpshooter_dw\sharpshooter_dw\obj\Debug\sharpshooter_dw.csprojResolveAssemblyReference.cache
+C:\Users\Scott King\Desktop\Sharpshooter STUDENT PROJECT\sharpshooter_dw\sharpshooter_dw\obj\Debug\sharpshooter_dw.Cheats.resources
+C:\Users\Scott King\Desktop\Sharpshooter STUDENT PROJECT\sharpshooter_dw\sharpshooter_dw\obj\Debug\sharpshooter_dw.Instructions.resources
+C:\Users\Scott King\Desktop\Sharpshooter STUDENT PROJECT\sharpshooter_dw\sharpshooter_dw\obj\Debug\sharpshooter_dw.mainform.resources
+C:\Users\Scott King\Desktop\Sharpshooter STUDENT PROJECT\sharpshooter_dw\sharpshooter_dw\obj\Debug\sharpshooter_dw.Properties.Resources.resources
+C:\Users\Scott King\Desktop\Sharpshooter STUDENT PROJECT\sharpshooter_dw\sharpshooter_dw\obj\Debug\sharpshooter_dw.csproj.GenerateResource.Cache
+C:\Users\RealProgramming4Kids\Desktop\SharpShooter Assessment Class\Sharpshooter STUDENT PROJECT\Sharpshooter STUDENT PROJECT\sharpshooter_dw\sharpshooter_dw\obj\Debug\sharpshooter_dw.csprojResolveAssemblyReference.cache
+C:\Users\RealProgramming4Kids\Desktop\SharpShooter Assessment Class\Sharpshooter STUDENT PROJECT\Sharpshooter STUDENT PROJECT\sharpshooter_dw\sharpshooter_dw\bin\Debug\sharpshooter_dw.exe
+C:\Users\RealProgramming4Kids\Desktop\SharpShooter Assessment Class\Sharpshooter STUDENT PROJECT\Sharpshooter STUDENT PROJECT\sharpshooter_dw\sharpshooter_dw\bin\Debug\sharpshooter_dw.pdb
+C:\Users\RealProgramming4Kids\Desktop\SharpShooter Assessment Class\Sharpshooter STUDENT PROJECT\Sharpshooter STUDENT PROJECT\sharpshooter_dw\sharpshooter_dw\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+C:\Users\RealProgramming4Kids\Desktop\SharpShooter Assessment Class\Sharpshooter STUDENT PROJECT\Sharpshooter STUDENT PROJECT\sharpshooter_dw\sharpshooter_dw\bin\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\RealProgramming4Kids\Desktop\SharpShooter Assessment Class\Sharpshooter STUDENT PROJECT\Sharpshooter STUDENT PROJECT\sharpshooter_dw\sharpshooter_dw\bin\Debug\Microsoft.DirectX.dll
+C:\Users\RealProgramming4Kids\Desktop\SharpShooter Assessment Class\Sharpshooter STUDENT PROJECT\Sharpshooter STUDENT PROJECT\sharpshooter_dw\sharpshooter_dw\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+C:\Users\RealProgramming4Kids\Desktop\SharpShooter Assessment Class\Sharpshooter STUDENT PROJECT\Sharpshooter STUDENT PROJECT\sharpshooter_dw\sharpshooter_dw\obj\Debug\sharpshooter_dw.Cheats.resources
+C:\Users\RealProgramming4Kids\Desktop\SharpShooter Assessment Class\Sharpshooter STUDENT PROJECT\Sharpshooter STUDENT PROJECT\sharpshooter_dw\sharpshooter_dw\obj\Debug\sharpshooter_dw.Instructions.resources
+C:\Users\RealProgramming4Kids\Desktop\SharpShooter Assessment Class\Sharpshooter STUDENT PROJECT\Sharpshooter STUDENT PROJECT\sharpshooter_dw\sharpshooter_dw\obj\Debug\sharpshooter_dw.mainform.resources
+C:\Users\RealProgramming4Kids\Desktop\SharpShooter Assessment Class\Sharpshooter STUDENT PROJECT\Sharpshooter STUDENT PROJECT\sharpshooter_dw\sharpshooter_dw\obj\Debug\sharpshooter_dw.Properties.Resources.resources
+C:\Users\RealProgramming4Kids\Desktop\SharpShooter Assessment Class\Sharpshooter STUDENT PROJECT\Sharpshooter STUDENT PROJECT\sharpshooter_dw\sharpshooter_dw\obj\Debug\sharpshooter_dw.csproj.GenerateResource.Cache
+C:\Users\RealProgramming4Kids\Desktop\SharpShooter Assessment Class\Sharpshooter STUDENT PROJECT\Sharpshooter STUDENT PROJECT\sharpshooter_dw\sharpshooter_dw\obj\Debug\sharpshooter_dw.exe
+C:\Users\RealProgramming4Kids\Desktop\SharpShooter Assessment Class\Sharpshooter STUDENT PROJECT\Sharpshooter STUDENT PROJECT\sharpshooter_dw\sharpshooter_dw\obj\Debug\sharpshooter_dw.pdb

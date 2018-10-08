@@ -1,0 +1,14 @@
+obj\Debug\sharpshooter_dw.exe
+obj\Debug\sharpshooter_dw.pdb
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\sharpshooter_dw.exe
+bin\Debug\sharpshooter_dw.pdb
+obj\Debug\sharpshooter_dw.mainform.resources
+obj\Debug\sharpshooter_dw.Properties.Resources.resources
+obj\Debug\sharpshooter_dw.csproj.GenerateResource.Cache
+bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+bin\Debug\Microsoft.DirectX.DirectSound.dll
+bin\Debug\Microsoft.DirectX.dll
+bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+obj\Debug\sharpshooter_dw.Instructions.resources
+obj\Debug\sharpshooter_dw.Cheats.resources
